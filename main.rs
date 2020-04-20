@@ -3,3 +3,4 @@ fn main() {
 
 	println!("X: {}", x);
 }
+// https://doc.rust-lang.ru/book/ch04-02-references-and-borrowing.html
